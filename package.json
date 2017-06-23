@@ -2,6 +2,7 @@
   "name": "nba_trivia",
   "version": "0.0.1",
   "private": true,
+  "homepage": "https://birdwell.github.io/nba-trivia",
   "devDependencies": {
     "react-scripts": "1.0.7"
   },
