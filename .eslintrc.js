@@ -20,6 +20,7 @@ module.exports = {
     },
     "globals": {
       "localStorage": true,
-      "window": true
+      "window": true,
+      "document": true
     },
 };
