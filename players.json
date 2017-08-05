@@ -1,0 +1,5262 @@
+[
+  {
+    "player_number": "8",
+    "player_name": "Alex Abrines",
+    "starter": false,
+    "player_id": "203518",
+    "team_name": "thunder",
+    "team_image": "OKC.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "13",
+    "player_name": "Quincy Acy",
+    "starter": false,
+    "player_id": "203112",
+    "team_name": "nets",
+    "team_image": "BKN.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "12",
+    "player_name": "Steven Adams",
+    "starter": true,
+    "player_id": "203500",
+    "team_name": "thunder",
+    "team_image": "OKC.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "",
+    "player_name": "Bam Adebayo",
+    "starter": false,
+    "player_id": "1628389",
+    "team_name": "heat",
+    "team_image": "MIA.svg",
+    "rookie": true,
+    "allstar": false
+  },
+  {
+    "player_number": "",
+    "player_name": "Arron Afflalo",
+    "starter": false,
+    "player_id": "201167",
+    "team_name": "magic",
+    "team_image": "ORL.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "42",
+    "player_name": "Alexis Ajinca",
+    "starter": false,
+    "player_id": "201582",
+    "team_name": "pelicans",
+    "team_image": "NOP.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "45",
+    "player_name": "Cole Aldrich",
+    "starter": false,
+    "player_id": "202332",
+    "team_name": "timberwolves",
+    "team_image": "MIN.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "12",
+    "player_name": "LaMarcus Aldridge",
+    "starter": true,
+    "player_id": "200746",
+    "team_name": "spurs",
+    "team_image": "SAS.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "",
+    "player_name": "Jarrett Allen",
+    "starter": false,
+    "player_id": "1628386",
+    "team_name": "nets",
+    "team_image": "BKN.svg",
+    "rookie": true,
+    "allstar": false
+  },
+  {
+    "player_number": "45",
+    "player_name": "Kadeem Allen",
+    "starter": false,
+    "player_id": "1628443",
+    "team_name": "celtics",
+    "team_image": "BOS.svg",
+    "rookie": true,
+    "allstar": false
+  },
+  {
+    "player_number": "5",
+    "player_name": "Lavoy Allen",
+    "starter": false,
+    "player_id": "202730",
+    "team_name": "pacers",
+    "team_image": "IND.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "9",
+    "player_name": "Tony Allen",
+    "starter": false,
+    "player_id": "2754",
+    "team_name": "grizzlies",
+    "team_image": "MEM.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "8",
+    "player_name": "Al-Farouq Aminu",
+    "starter": true,
+    "player_id": "202329",
+    "team_name": "blazers",
+    "team_image": "POR.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "9",
+    "player_name": "Alan Anderson",
+    "starter": false,
+    "player_id": "101187",
+    "team_name": "clippers",
+    "team_image": "LAC.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "23",
+    "player_name": "Justin Anderson",
+    "starter": false,
+    "player_id": "1626147",
+    "team_name": "sixers",
+    "team_image": "PHI.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "1",
+    "player_name": "Kyle Anderson",
+    "starter": false,
+    "player_id": "203937",
+    "team_name": "spurs",
+    "team_image": "SAS.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "3",
+    "player_name": "Ryan Anderson",
+    "starter": true,
+    "player_id": "201583",
+    "team_name": "rockets",
+    "team_image": "HOU.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "13",
+    "player_name": "Ike Anigbogu",
+    "starter": false,
+    "player_id": "1628387",
+    "team_name": "pacers",
+    "team_image": "IND.svg",
+    "rookie": true,
+    "allstar": false
+  },
+  {
+    "player_number": "34",
+    "player_name": "Giannis Antetokounmpo",
+    "starter": true,
+    "player_id": "203507",
+    "team_name": "bucks",
+    "team_image": "MIL.svg",
+    "rookie": false,
+    "allstar": true
+  },
+  {
+    "player_number": "7",
+    "player_name": "Carmelo Anthony",
+    "starter": true,
+    "player_id": "2546",
+    "team_name": "knicks",
+    "team_image": "NYK.svg",
+    "rookie": false,
+    "allstar": true
+  },
+  {
+    "player_number": "30",
+    "player_name": "Joel Anthony",
+    "starter": false,
+    "player_id": "201202",
+    "team_name": "spurs",
+    "team_image": "SAS.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "",
+    "player_name": "OG Anunoby",
+    "starter": false,
+    "player_id": "1628384",
+    "team_name": "raptors",
+    "team_image": "TOR.svg",
+    "rookie": true,
+    "allstar": false
+  },
+  {
+    "player_number": "",
+    "player_name": "Ryan Arcidiacono",
+    "starter": false,
+    "player_id": "1627853",
+    "team_name": "bulls",
+    "team_image": "CHI.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "1",
+    "player_name": "Trevor Ariza",
+    "starter": true,
+    "player_id": "2772",
+    "team_name": "rockets",
+    "team_image": "HOU.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "00",
+    "player_name": "Darrell Arthur",
+    "starter": false,
+    "player_id": "201589",
+    "team_name": "nuggets",
+    "team_image": "DEN.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "",
+    "player_name": "Brandon Ashley",
+    "starter": false,
+    "player_id": "1626165",
+    "team_name": "mavericks",
+    "team_image": "DAL.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "3",
+    "player_name": "Omer Asik",
+    "starter": false,
+    "player_id": "201600",
+    "team_name": "pelicans",
+    "team_image": "NOP.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "14",
+    "player_name": "D.J. Augustin",
+    "starter": false,
+    "player_id": "201571",
+    "team_name": "magic",
+    "team_image": "ORL.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "5",
+    "player_name": "Luke Babbitt",
+    "starter": false,
+    "player_id": "202337",
+    "team_name": "heat",
+    "team_image": "MIA.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "",
+    "player_name": "Dwayne Bacon",
+    "starter": false,
+    "player_id": "1628407",
+    "team_name": "hornets",
+    "team_image": "CHA.svg",
+    "rookie": true,
+    "allstar": false
+  },
+  {
+    "player_number": "31",
+    "player_name": "Ron Baker",
+    "starter": false,
+    "player_id": "1627758",
+    "team_name": "knicks",
+    "team_image": "NYK.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "4",
+    "player_name": "Wade Baldwin IV",
+    "starter": false,
+    "player_id": "1627735",
+    "team_name": "grizzlies",
+    "team_image": "MEM.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "2",
+    "player_name": "Lonzo Ball",
+    "starter": true,
+    "player_id": "1628366",
+    "team_name": "lakers",
+    "team_image": "LAL.svg",
+    "rookie": true,
+    "allstar": false
+  },
+  {
+    "player_number": "5",
+    "player_name": "J.J. Barea",
+    "starter": false,
+    "player_id": "200826",
+    "team_name": "mavericks",
+    "team_image": "DAL.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "40",
+    "player_name": "Harrison Barnes",
+    "starter": true,
+    "player_id": "203084",
+    "team_name": "mavericks",
+    "team_image": "DAL.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "22",
+    "player_name": "Matt Barnes",
+    "starter": false,
+    "player_id": "2440",
+    "team_name": "warriors",
+    "team_image": "GSW.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "5",
+    "player_name": "Will Barton",
+    "starter": false,
+    "player_id": "203115",
+    "team_name": "nuggets",
+    "team_image": "DEN.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "30",
+    "player_name": "Brandon Bass",
+    "starter": false,
+    "player_id": "101138",
+    "team_name": "clippers",
+    "team_image": "LAC.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "5",
+    "player_name": "Nicolas Batum",
+    "starter": true,
+    "player_id": "201587",
+    "team_name": "hornets",
+    "team_image": "CHA.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "0",
+    "player_name": "Jerryd Bayless",
+    "starter": false,
+    "player_id": "201573",
+    "team_name": "sixers",
+    "team_image": "PHI.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "46",
+    "player_name": "Aron Baynes",
+    "starter": false,
+    "player_id": "203382",
+    "team_name": "celtics",
+    "team_image": "BOS.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "24",
+    "player_name": "Kent Bazemore",
+    "starter": true,
+    "player_id": "203145",
+    "team_name": "hawks",
+    "team_image": "ATL.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "3",
+    "player_name": "Bradley Beal",
+    "starter": true,
+    "player_id": "203078",
+    "team_name": "wizards",
+    "team_image": "WAS.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "25",
+    "player_name": "Malik Beasley",
+    "starter": false,
+    "player_id": "1627736",
+    "team_name": "nuggets",
+    "team_image": "DEN.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "9",
+    "player_name": "Michael Beasley",
+    "starter": false,
+    "player_id": "201563",
+    "team_name": "bucks",
+    "team_image": "MIL.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "",
+    "player_name": "Marco Belinelli",
+    "starter": false,
+    "player_id": "201158",
+    "team_name": "hawks",
+    "team_image": "ATL.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "",
+    "player_name": "Jordan Bell",
+    "starter": false,
+    "player_id": "1628395",
+    "team_name": "warriors",
+    "team_image": "GSW.svg",
+    "rookie": true,
+    "allstar": false
+  },
+  {
+    "player_number": "95",
+    "player_name": "DeAndre' Bembry",
+    "starter": false,
+    "player_id": "1627761",
+    "team_name": "hawks",
+    "team_image": "ATL.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "35",
+    "player_name": "Dragan Bender",
+    "starter": false,
+    "player_id": "1627733",
+    "team_name": "suns",
+    "team_image": "PHX.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "42",
+    "player_name": "Davis Bertans",
+    "starter": false,
+    "player_id": "202722",
+    "team_name": "spurs",
+    "team_image": "SAS.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "",
+    "player_name": "Patrick Beverley",
+    "starter": true,
+    "player_id": "201976",
+    "team_name": "clippers",
+    "team_image": "LAC.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "",
+    "player_name": "Khem Birch",
+    "starter": false,
+    "player_id": "203920",
+    "team_name": "magic",
+    "team_image": "ORL.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "26",
+    "player_name": "Jabari Bird",
+    "starter": false,
+    "player_id": "1628444",
+    "team_name": "celtics",
+    "team_image": "BOS.svg",
+    "rookie": true,
+    "allstar": false
+  },
+  {
+    "player_number": "11",
+    "player_name": "Bismack Biyombo",
+    "starter": false,
+    "player_id": "202687",
+    "team_name": "magic",
+    "team_image": "ORL.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "88",
+    "player_name": "Nemanja Bjelica",
+    "starter": false,
+    "player_id": "202357",
+    "team_name": "timberwolves",
+    "team_image": "MIN.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "",
+    "player_name": "Tarik Black",
+    "starter": false,
+    "player_id": "204028",
+    "team_name": "rockets",
+    "team_image": "HOU.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "",
+    "player_name": "Antonio Blakeney",
+    "starter": false,
+    "player_id": "1628469",
+    "team_name": "bulls",
+    "team_image": "CHI.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "2",
+    "player_name": "Eric Bledsoe",
+    "starter": true,
+    "player_id": "202339",
+    "team_name": "suns",
+    "team_image": "PHX.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "15",
+    "player_name": "Jaron Blossomgame",
+    "starter": false,
+    "player_id": "1628417",
+    "team_name": "spurs",
+    "team_image": "SAS.svg",
+    "rookie": true,
+    "allstar": false
+  },
+  {
+    "player_number": "8",
+    "player_name": "Bogdan Bogdanovic",
+    "starter": false,
+    "player_id": "203992",
+    "team_name": "kings",
+    "team_image": "SAC.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "44",
+    "player_name": "Bojan Bogdanovic",
+    "starter": true,
+    "player_id": "202711",
+    "team_name": "pacers",
+    "team_image": "IND.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "43",
+    "player_name": "Jonah Bolden",
+    "starter": false,
+    "player_id": "1628413",
+    "team_name": "sixers",
+    "team_image": "PHI.svg",
+    "rookie": true,
+    "allstar": false
+  },
+  {
+    "player_number": "21",
+    "player_name": "Joel Bolomboy",
+    "starter": false,
+    "player_id": "1627762",
+    "team_name": "jazz",
+    "team_image": "UTA.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "1",
+    "player_name": "Devin Booker",
+    "starter": true,
+    "player_id": "1626164",
+    "team_name": "suns",
+    "team_image": "PHX.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "35",
+    "player_name": "Trevor Booker",
+    "starter": false,
+    "player_id": "202344",
+    "team_name": "nets",
+    "team_image": "BKN.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "",
+    "player_name": "Avery Bradley",
+    "starter": true,
+    "player_id": "202340",
+    "team_name": "pistons",
+    "team_image": "DET.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "",
+    "player_name": "Tony Bradley",
+    "starter": false,
+    "player_id": "1628396",
+    "team_name": "jazz",
+    "team_image": "UTA.svg",
+    "rookie": true,
+    "allstar": false
+  },
+  {
+    "player_number": "3",
+    "player_name": "Corey Brewer",
+    "starter": false,
+    "player_id": "201147",
+    "team_name": "lakers",
+    "team_image": "LAL.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "13",
+    "player_name": "Malcolm Brogdon",
+    "starter": true,
+    "player_id": "1627763",
+    "team_name": "bucks",
+    "team_image": "MIL.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "00",
+    "player_name": "Aaron Brooks",
+    "starter": false,
+    "player_id": "201166",
+    "team_name": "pacers",
+    "team_image": "IND.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "",
+    "player_name": "Dillon Brooks",
+    "starter": false,
+    "player_id": "1628415",
+    "team_name": "grizzlies",
+    "team_image": "MEM.svg",
+    "rookie": true,
+    "allstar": false
+  },
+  {
+    "player_number": "8",
+    "player_name": "Bobby Brown",
+    "starter": false,
+    "player_id": "201628",
+    "team_name": "rockets",
+    "team_image": "HOU.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "7",
+    "player_name": "Jaylen Brown",
+    "starter": true,
+    "player_id": "1627759",
+    "team_name": "celtics",
+    "team_image": "BOS.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "",
+    "player_name": "Lorenzo Brown",
+    "starter": false,
+    "player_id": "203485",
+    "team_name": "raptors",
+    "team_image": "TOR.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "",
+    "player_name": "Sterling Brown",
+    "starter": false,
+    "player_id": "1628425",
+    "team_name": "bucks",
+    "team_image": "MIL.svg",
+    "rookie": true,
+    "allstar": false
+  },
+  {
+    "player_number": "",
+    "player_name": "Nicolas Brussino",
+    "starter": false,
+    "player_id": "1627852",
+    "team_name": "hawks",
+    "team_image": "ATL.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "31",
+    "player_name": "Thomas Bryant",
+    "starter": false,
+    "player_id": "1628418",
+    "team_name": "lakers",
+    "team_image": "LAL.svg",
+    "rookie": true,
+    "allstar": false
+  },
+  {
+    "player_number": "25",
+    "player_name": "Reggie Bullock",
+    "starter": false,
+    "player_id": "203493",
+    "team_name": "pistons",
+    "team_image": "DET.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "33",
+    "player_name": "Trey Burke",
+    "starter": false,
+    "player_id": "203504",
+    "team_name": "wizards",
+    "team_image": "WAS.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "10",
+    "player_name": "Alec Burks",
+    "starter": false,
+    "player_id": "202692",
+    "team_name": "jazz",
+    "team_image": "UTA.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "",
+    "player_name": "Jimmy Butler",
+    "starter": true,
+    "player_id": "202710",
+    "team_name": "timberwolves",
+    "team_image": "MIN.svg",
+    "rookie": false,
+    "allstar": true
+  },
+  {
+    "player_number": "20",
+    "player_name": "Bruno Caboclo",
+    "starter": false,
+    "player_id": "203998",
+    "team_name": "raptors",
+    "team_image": "TOR.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "81",
+    "player_name": "Jose Calderon",
+    "starter": false,
+    "player_id": "101181",
+    "team_name": "cavaliers",
+    "team_image": "CLE.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "1",
+    "player_name": "Kentavious Caldwell-Pope",
+    "starter": true,
+    "player_id": "203484",
+    "team_name": "lakers",
+    "team_image": "LAL.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "",
+    "player_name": "Vlatko Cancar",
+    "starter": false,
+    "player_id": "1628427",
+    "team_name": "nuggets",
+    "team_image": "DEN.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "15",
+    "player_name": "Clint Capela",
+    "starter": true,
+    "player_id": "203991",
+    "team_name": "rockets",
+    "team_image": "HOU.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "",
+    "player_name": "DeMarre Carroll",
+    "starter": false,
+    "player_id": "201960",
+    "team_name": "nets",
+    "team_image": "BKN.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "10",
+    "player_name": "Michael Carter-Williams",
+    "starter": false,
+    "player_id": "203487",
+    "team_name": "hornets",
+    "team_image": "CHA.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "15",
+    "player_name": "Vince Carter",
+    "starter": false,
+    "player_id": "1713",
+    "team_name": "kings",
+    "team_image": "SAC.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "",
+    "player_name": "Alex Caruso",
+    "starter": false,
+    "player_id": "1627936",
+    "team_name": "lakers",
+    "team_image": "LAL.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "18",
+    "player_name": "Omri Casspi",
+    "starter": false,
+    "player_id": "201956",
+    "team_name": "warriors",
+    "team_image": "GSW.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "00",
+    "player_name": "Willie Cauley-Stein",
+    "starter": true,
+    "player_id": "1626161",
+    "team_name": "kings",
+    "team_image": "SAC.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "",
+    "player_name": "Mario Chalmers",
+    "starter": false,
+    "player_id": "201596",
+    "team_name": "grizzlies",
+    "team_image": "MEM.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "4",
+    "player_name": "Tyson Chandler",
+    "starter": true,
+    "player_id": "2199",
+    "team_name": "suns",
+    "team_image": "PHX.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "21",
+    "player_name": "Wilson Chandler",
+    "starter": true,
+    "player_id": "201163",
+    "team_name": "nuggets",
+    "team_image": "DEN.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "0",
+    "player_name": "Marquese Chriss",
+    "starter": true,
+    "player_id": "1627737",
+    "team_name": "suns",
+    "team_image": "PHX.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "6",
+    "player_name": "Semaj Christon",
+    "starter": false,
+    "player_id": "203902",
+    "team_name": "thunder",
+    "team_image": "OKC.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "",
+    "player_name": "Ian Clark",
+    "starter": false,
+    "player_id": "203546",
+    "team_name": "pelicans",
+    "team_image": "NOP.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "6",
+    "player_name": "Jordan Clarkson",
+    "starter": false,
+    "player_id": "203903",
+    "team_name": "lakers",
+    "team_image": "LAL.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "",
+    "player_name": "Gian Clavell",
+    "starter": false,
+    "player_id": "1628492",
+    "team_name": "mavericks",
+    "team_image": "DAL.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "30",
+    "player_name": "Norris Cole",
+    "starter": false,
+    "player_id": "202708",
+    "team_name": "thunder",
+    "team_image": "OKC.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "20",
+    "player_name": "John Collins",
+    "starter": false,
+    "player_id": "1628381",
+    "team_name": "hawks",
+    "team_image": "ATL.svg",
+    "rookie": true,
+    "allstar": false
+  },
+  {
+    "player_number": "",
+    "player_name": "Zach Collins",
+    "starter": false,
+    "player_id": "1628380",
+    "team_name": "blazers",
+    "team_image": "POR.svg",
+    "rookie": true,
+    "allstar": false
+  },
+  {
+    "player_number": "2",
+    "player_name": "Darren Collison",
+    "starter": true,
+    "player_id": "201954",
+    "team_name": "pacers",
+    "team_image": "IND.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "4",
+    "player_name": "Nick Collison",
+    "starter": false,
+    "player_id": "2555",
+    "team_name": "thunder",
+    "team_image": "OKC.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "11",
+    "player_name": "Mike Conley",
+    "starter": true,
+    "player_id": "201144",
+    "team_name": "grizzlies",
+    "team_image": "MEM.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "5",
+    "player_name": "Pat Connaughton",
+    "starter": false,
+    "player_id": "1626192",
+    "team_name": "blazers",
+    "team_image": "POR.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "",
+    "player_name": "Charles Cooke",
+    "starter": false,
+    "player_id": "1628429",
+    "team_name": "pelicans",
+    "team_image": "NOP.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "",
+    "player_name": "Jack Cooley",
+    "starter": false,
+    "player_id": "204022",
+    "team_name": "kings",
+    "team_image": "SAC.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "",
+    "player_name": "Matt Costello",
+    "starter": false,
+    "player_id": "1627856",
+    "team_name": "timberwolves",
+    "team_image": "MIN.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "0",
+    "player_name": "DeMarcus Cousins",
+    "starter": true,
+    "player_id": "202326",
+    "team_name": "pelicans",
+    "team_image": "NOP.svg",
+    "rookie": false,
+    "allstar": true
+  },
+  {
+    "player_number": "33",
+    "player_name": "Robert Covington",
+    "starter": true,
+    "player_id": "203496",
+    "team_name": "sixers",
+    "team_image": "PHI.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "",
+    "player_name": "Allen Crabbe",
+    "starter": true,
+    "player_id": "203459",
+    "team_name": "nets",
+    "team_image": "BKN.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "",
+    "player_name": "Torrey Craig",
+    "starter": false,
+    "player_id": "1628470",
+    "team_name": "nuggets",
+    "team_image": "DEN.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "",
+    "player_name": "Jamal Crawford",
+    "starter": false,
+    "player_id": "2037",
+    "team_name": "timberwolves",
+    "team_image": "MIN.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "4",
+    "player_name": "Jordan Crawford",
+    "starter": false,
+    "player_id": "202348",
+    "team_name": "pelicans",
+    "team_image": "NOP.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "99",
+    "player_name": "Jae Crowder",
+    "starter": true,
+    "player_id": "203109",
+    "team_name": "celtics",
+    "team_image": "BOS.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "33",
+    "player_name": "Dante Cunningham",
+    "starter": false,
+    "player_id": "201967",
+    "team_name": "pelicans",
+    "team_image": "NOP.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "30",
+    "player_name": "Seth Curry",
+    "starter": true,
+    "player_id": "203552",
+    "team_name": "mavericks",
+    "team_image": "DAL.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "30",
+    "player_name": "Stephen Curry",
+    "starter": true,
+    "player_id": "201939",
+    "team_name": "warriors",
+    "team_image": "GSW.svg",
+    "rookie": false,
+    "allstar": true
+  },
+  {
+    "player_number": "30",
+    "player_name": "Troy Daniels",
+    "starter": false,
+    "player_id": "203584",
+    "team_name": "grizzlies",
+    "team_image": "MEM.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "23",
+    "player_name": "Anthony Davis",
+    "starter": true,
+    "player_id": "203076",
+    "team_name": "pelicans",
+    "team_image": "NOP.svg",
+    "rookie": false,
+    "allstar": true
+  },
+  {
+    "player_number": "23",
+    "player_name": "Deyonta Davis",
+    "starter": false,
+    "player_id": "1627738",
+    "team_name": "grizzlies",
+    "team_image": "MEM.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "17",
+    "player_name": "Ed Davis",
+    "starter": false,
+    "player_id": "202334",
+    "team_name": "blazers",
+    "team_image": "POR.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "",
+    "player_name": "Dewayne Dedmon",
+    "starter": true,
+    "player_id": "203473",
+    "team_name": "hawks",
+    "team_image": "ATL.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "",
+    "player_name": "Sam Dekker",
+    "starter": false,
+    "player_id": "1626155",
+    "team_name": "clippers",
+    "team_image": "LAC.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "5",
+    "player_name": "Malcolm Delaney",
+    "starter": false,
+    "player_id": "1627098",
+    "team_name": "hawks",
+    "team_image": "ATL.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "8",
+    "player_name": "Matthew Dellavedova",
+    "starter": false,
+    "player_id": "203521",
+    "team_name": "bucks",
+    "team_image": "MIL.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "9",
+    "player_name": "Luol Deng",
+    "starter": false,
+    "player_id": "2736",
+    "team_name": "lakers",
+    "team_image": "LAL.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "10",
+    "player_name": "DeMar DeRozan",
+    "starter": true,
+    "player_id": "201942",
+    "team_name": "raptors",
+    "team_image": "TOR.svg",
+    "rookie": false,
+    "allstar": true
+  },
+  {
+    "player_number": "13",
+    "player_name": "Cheick Diallo",
+    "starter": false,
+    "player_id": "1627767",
+    "team_name": "pelicans",
+    "team_image": "NOP.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "5",
+    "player_name": "Gorgui Dieng",
+    "starter": true,
+    "player_id": "203476",
+    "team_name": "timberwolves",
+    "team_image": "MIN.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "8",
+    "player_name": "Spencer Dinwiddie",
+    "starter": false,
+    "player_id": "203915",
+    "team_name": "nets",
+    "team_image": "BKN.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "2",
+    "player_name": "Tyler Dorsey",
+    "starter": false,
+    "player_id": "1628416",
+    "team_name": "hawks",
+    "team_image": "ATL.svg",
+    "rookie": true,
+    "allstar": false
+  },
+  {
+    "player_number": "",
+    "player_name": "Damyean Dotson",
+    "starter": false,
+    "player_id": "1628422",
+    "team_name": "knicks",
+    "team_image": "NYK.svg",
+    "rookie": true,
+    "allstar": false
+  },
+  {
+    "player_number": "7",
+    "player_name": "Goran Dragic",
+    "starter": true,
+    "player_id": "201609",
+    "team_name": "heat",
+    "team_image": "MIA.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "0",
+    "player_name": "Andre Drummond",
+    "starter": true,
+    "player_id": "203083",
+    "team_name": "pistons",
+    "team_image": "DET.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "3",
+    "player_name": "Jared Dudley",
+    "starter": false,
+    "player_id": "201162",
+    "team_name": "suns",
+    "team_image": "PHX.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "32",
+    "player_name": "Kris Dunn",
+    "starter": true,
+    "player_id": "1627739",
+    "team_name": "bulls",
+    "team_image": "CHI.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "35",
+    "player_name": "Kevin Durant",
+    "starter": true,
+    "player_id": "201142",
+    "team_name": "warriors",
+    "team_image": "GSW.svg",
+    "rookie": false,
+    "allstar": true
+  },
+  {
+    "player_number": "8",
+    "player_name": "Henry Ellenson",
+    "starter": false,
+    "player_id": "1627740",
+    "team_name": "pistons",
+    "team_image": "DET.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "2",
+    "player_name": "Wayne Ellington",
+    "starter": false,
+    "player_id": "201961",
+    "team_name": "heat",
+    "team_image": "MIA.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "21",
+    "player_name": "Joel Embiid",
+    "starter": true,
+    "player_id": "203954",
+    "team_name": "sixers",
+    "team_image": "PHI.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "8",
+    "player_name": "James Ennis III",
+    "starter": false,
+    "player_id": "203516",
+    "team_name": "grizzlies",
+    "team_image": "MEM.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "10",
+    "player_name": "Tyler Ennis",
+    "starter": false,
+    "player_id": "203898",
+    "team_name": "lakers",
+    "team_image": "LAL.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "",
+    "player_name": "Jawun Evans",
+    "starter": false,
+    "player_id": "1628393",
+    "team_name": "clippers",
+    "team_image": "LAC.svg",
+    "rookie": true,
+    "allstar": false
+  },
+  {
+    "player_number": "",
+    "player_name": "Tyreke Evans",
+    "starter": false,
+    "player_id": "201936",
+    "team_name": "grizzlies",
+    "team_image": "MEM.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "11",
+    "player_name": "Dante Exum",
+    "starter": false,
+    "player_id": "203957",
+    "team_name": "jazz",
+    "team_image": "UTA.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "35",
+    "player_name": "Kenneth Faried",
+    "starter": false,
+    "player_id": "202702",
+    "team_name": "nuggets",
+    "team_image": "DEN.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "15",
+    "player_name": "Derrick Favors",
+    "starter": true,
+    "player_id": "202324",
+    "team_name": "jazz",
+    "team_image": "UTA.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "20",
+    "player_name": "Kay Felder",
+    "starter": false,
+    "player_id": "1627770",
+    "team_name": "cavaliers",
+    "team_image": "CLE.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "6",
+    "player_name": "Cristiano Felicio",
+    "starter": false,
+    "player_id": "1626245",
+    "team_name": "bulls",
+    "team_image": "CHI.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "",
+    "player_name": "Raymond Felton",
+    "starter": false,
+    "player_id": "101109",
+    "team_name": "thunder",
+    "team_image": "OKC.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "",
+    "player_name": "Terrance Ferguson",
+    "starter": false,
+    "player_id": "1628390",
+    "team_name": "thunder",
+    "team_image": "OKC.svg",
+    "rookie": true,
+    "allstar": false
+  },
+  {
+    "player_number": "11",
+    "player_name": "Yogi Ferrell",
+    "starter": false,
+    "player_id": "1627812",
+    "team_name": "mavericks",
+    "team_image": "DAL.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "10",
+    "player_name": "Dorian Finney-Smith",
+    "starter": false,
+    "player_id": "1627827",
+    "team_name": "mavericks",
+    "team_image": "DAL.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "11",
+    "player_name": "Bryn Forbes",
+    "starter": false,
+    "player_id": "1627854",
+    "team_name": "spurs",
+    "team_image": "SAS.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "10",
+    "player_name": "Evan Fournier",
+    "starter": true,
+    "player_id": "203095",
+    "team_name": "magic",
+    "team_image": "ORL.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "5",
+    "player_name": "De'Aaron Fox",
+    "starter": false,
+    "player_id": "1628368",
+    "team_name": "kings",
+    "team_image": "SAC.svg",
+    "rookie": true,
+    "allstar": false
+  },
+  {
+    "player_number": "2",
+    "player_name": "Randy Foye",
+    "starter": false,
+    "player_id": "200751",
+    "team_name": "nets",
+    "team_image": "BKN.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "",
+    "player_name": "Tim Frazier",
+    "starter": false,
+    "player_id": "204025",
+    "team_name": "wizards",
+    "team_image": "WAS.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "8",
+    "player_name": "Channing Frye",
+    "starter": false,
+    "player_id": "101112",
+    "team_name": "cavaliers",
+    "team_image": "CLE.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "7",
+    "player_name": "Markelle Fultz",
+    "starter": true,
+    "player_id": "1628365",
+    "team_name": "sixers",
+    "team_image": "PHI.svg",
+    "rookie": true,
+    "allstar": false
+  },
+  {
+    "player_number": "",
+    "player_name": "Danilo Gallinari",
+    "starter": true,
+    "player_id": "201568",
+    "team_name": "clippers",
+    "team_image": "LAC.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "9",
+    "player_name": "Langston Galloway",
+    "starter": false,
+    "player_id": "204038",
+    "team_name": "pistons",
+    "team_image": "DET.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "33",
+    "player_name": "Marc Gasol",
+    "starter": true,
+    "player_id": "201188",
+    "team_name": "grizzlies",
+    "team_image": "MEM.svg",
+    "rookie": false,
+    "allstar": true
+  },
+  {
+    "player_number": "16",
+    "player_name": "Pau Gasol",
+    "starter": true,
+    "player_id": "2200",
+    "team_name": "spurs",
+    "team_image": "SAS.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "",
+    "player_name": "Rudy Gay",
+    "starter": false,
+    "player_id": "200752",
+    "team_name": "spurs",
+    "team_image": "SAS.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "",
+    "player_name": "Paul George",
+    "starter": true,
+    "player_id": "202331",
+    "team_name": "thunder",
+    "team_image": "OKC.svg",
+    "rookie": false,
+    "allstar": true
+  },
+  {
+    "player_number": "",
+    "player_name": "Taj Gibson",
+    "starter": false,
+    "player_id": "201959",
+    "team_name": "timberwolves",
+    "team_image": "MIN.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "20",
+    "player_name": "Harry Giles",
+    "starter": false,
+    "player_id": "1628385",
+    "team_name": "kings",
+    "team_image": "SAC.svg",
+    "rookie": true,
+    "allstar": false
+  },
+  {
+    "player_number": "20",
+    "player_name": "Manu Ginobili",
+    "starter": false,
+    "player_id": "1938",
+    "team_name": "spurs",
+    "team_image": "SAS.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "27",
+    "player_name": "Rudy Gobert",
+    "starter": true,
+    "player_id": "203497",
+    "team_name": "jazz",
+    "team_image": "UTA.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "00",
+    "player_name": "Aaron Gordon",
+    "starter": true,
+    "player_id": "203932",
+    "team_name": "magic",
+    "team_image": "ORL.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "10",
+    "player_name": "Eric Gordon",
+    "starter": false,
+    "player_id": "201569",
+    "team_name": "rockets",
+    "team_image": "HOU.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "13",
+    "player_name": "Marcin Gortat",
+    "starter": true,
+    "player_id": "101162",
+    "team_name": "wizards",
+    "team_image": "WAS.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "21",
+    "player_name": "Treveon Graham",
+    "starter": false,
+    "player_id": "1626203",
+    "team_name": "hornets",
+    "team_image": "CHA.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "9",
+    "player_name": "Jerami Grant",
+    "starter": false,
+    "player_id": "203924",
+    "team_name": "thunder",
+    "team_image": "OKC.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "2",
+    "player_name": "Jerian Grant",
+    "starter": false,
+    "player_id": "1626170",
+    "team_name": "bulls",
+    "team_image": "CHI.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "14",
+    "player_name": "Danny Green",
+    "starter": true,
+    "player_id": "201980",
+    "team_name": "spurs",
+    "team_image": "SAS.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "23",
+    "player_name": "Draymond Green",
+    "starter": true,
+    "player_id": "203110",
+    "team_name": "warriors",
+    "team_image": "GSW.svg",
+    "rookie": false,
+    "allstar": true
+  },
+  {
+    "player_number": "30",
+    "player_name": "Gerald Green",
+    "starter": false,
+    "player_id": "101123",
+    "team_name": "celtics",
+    "team_image": "BOS.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "0",
+    "player_name": "JaMychal Green",
+    "starter": true,
+    "player_id": "203210",
+    "team_name": "grizzlies",
+    "team_image": "MEM.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "32",
+    "player_name": "Jeff Green",
+    "starter": false,
+    "player_id": "201145",
+    "team_name": "cavaliers",
+    "team_image": "CLE.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "32",
+    "player_name": "Blake Griffin",
+    "starter": true,
+    "player_id": "201933",
+    "team_name": "clippers",
+    "team_image": "LAC.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "",
+    "player_name": "Eric Griffin",
+    "starter": false,
+    "player_id": "203547",
+    "team_name": "jazz",
+    "team_image": "UTA.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "",
+    "player_name": "Daniel Hamilton",
+    "starter": false,
+    "player_id": "1627772",
+    "team_name": "thunder",
+    "team_image": "OKC.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "",
+    "player_name": "AJ Hammons",
+    "starter": false,
+    "player_id": "1627773",
+    "team_name": "heat",
+    "team_image": "MIA.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "",
+    "player_name": "Tim Hardaway Jr.",
+    "starter": false,
+    "player_id": "203501",
+    "team_name": "knicks",
+    "team_image": "NYK.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "13",
+    "player_name": "James Harden",
+    "starter": true,
+    "player_id": "201935",
+    "team_name": "rockets",
+    "team_image": "HOU.svg",
+    "rookie": false,
+    "allstar": true
+  },
+  {
+    "player_number": "4",
+    "player_name": "Maurice Harkless",
+    "starter": false,
+    "player_id": "203090",
+    "team_name": "blazers",
+    "team_image": "POR.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "",
+    "player_name": "Montrezl Harrell",
+    "starter": false,
+    "player_id": "1626149",
+    "team_name": "clippers",
+    "team_image": "LAC.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "34",
+    "player_name": "Devin Harris",
+    "starter": false,
+    "player_id": "2734",
+    "team_name": "mavericks",
+    "team_image": "DAL.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "14",
+    "player_name": "Gary Harris",
+    "starter": true,
+    "player_id": "203914",
+    "team_name": "nuggets",
+    "team_image": "DEN.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "12",
+    "player_name": "Joe Harris",
+    "starter": false,
+    "player_id": "203925",
+    "team_name": "nets",
+    "team_image": "BKN.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "5",
+    "player_name": "Andrew Harrison",
+    "starter": false,
+    "player_id": "1626150",
+    "team_name": "grizzlies",
+    "team_image": "MEM.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "34",
+    "player_name": "Tobias Harris",
+    "starter": true,
+    "player_id": "202699",
+    "team_name": "pistons",
+    "team_image": "DET.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "",
+    "player_name": "Isaiah Hartenstein",
+    "starter": false,
+    "player_id": "1628392",
+    "team_name": "rockets",
+    "team_image": "HOU.svg",
+    "rookie": true,
+    "allstar": false
+  },
+  {
+    "player_number": "5",
+    "player_name": "Josh Hart",
+    "starter": false,
+    "player_id": "1628404",
+    "team_name": "lakers",
+    "team_image": "LAL.svg",
+    "rookie": true,
+    "allstar": false
+  },
+  {
+    "player_number": "40",
+    "player_name": "Udonis Haslem",
+    "starter": false,
+    "player_id": "2617",
+    "team_name": "heat",
+    "team_image": "MIA.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "00",
+    "player_name": "Spencer Hawes",
+    "starter": false,
+    "player_id": "201150",
+    "team_name": "bucks",
+    "team_image": "MIL.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "20",
+    "player_name": "Gordon Hayward",
+    "starter": true,
+    "player_id": "202330",
+    "team_name": "celtics",
+    "team_image": "BOS.svg",
+    "rookie": false,
+    "allstar": true
+  },
+  {
+    "player_number": "31",
+    "player_name": "John Henson",
+    "starter": false,
+    "player_id": "203089",
+    "team_name": "bucks",
+    "team_image": "MIL.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "41",
+    "player_name": "Juan Hernangomez",
+    "starter": false,
+    "player_id": "1627823",
+    "team_name": "nuggets",
+    "team_image": "DEN.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "14",
+    "player_name": "Willy Hernangomez",
+    "starter": true,
+    "player_id": "1626195",
+    "team_name": "knicks",
+    "team_image": "NYK.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "8",
+    "player_name": "Mario Hezonja",
+    "starter": false,
+    "player_id": "1626209",
+    "team_name": "magic",
+    "team_image": "ORL.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "34",
+    "player_name": "Roy Hibbert",
+    "starter": false,
+    "player_id": "201579",
+    "team_name": "nuggets",
+    "team_image": "DEN.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "",
+    "player_name": "Isaiah Hicks",
+    "starter": false,
+    "player_id": "1628439",
+    "team_name": "clippers",
+    "team_image": "LAC.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "24",
+    "player_name": "Buddy Hield",
+    "starter": true,
+    "player_id": "1627741",
+    "team_name": "kings",
+    "team_image": "SAC.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "3",
+    "player_name": "George Hill",
+    "starter": true,
+    "player_id": "201588",
+    "team_name": "kings",
+    "team_image": "SAC.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "44",
+    "player_name": "Solomon Hill",
+    "starter": true,
+    "player_id": "203524",
+    "team_name": "pelicans",
+    "team_image": "NOP.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "11",
+    "player_name": "Jrue Holiday",
+    "starter": true,
+    "player_id": "201950",
+    "team_name": "pelicans",
+    "team_image": "NOP.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "",
+    "player_name": "Justin Holiday",
+    "starter": false,
+    "player_id": "203200",
+    "team_name": "bulls",
+    "team_image": "CHI.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "24",
+    "player_name": "Rondae Hollis-Jefferson",
+    "starter": true,
+    "player_id": "1626178",
+    "team_name": "nets",
+    "team_image": "BKN.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "22",
+    "player_name": "Richaun Holmes",
+    "starter": false,
+    "player_id": "1626158",
+    "team_name": "sixers",
+    "team_image": "PHI.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "5",
+    "player_name": "Rodney Hood",
+    "starter": true,
+    "player_id": "203918",
+    "team_name": "jazz",
+    "team_image": "UTA.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "42",
+    "player_name": "Al Horford",
+    "starter": true,
+    "player_id": "201143",
+    "team_name": "celtics",
+    "team_image": "BOS.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "12",
+    "player_name": "Dwight Howard",
+    "starter": true,
+    "player_id": "2730",
+    "team_name": "hornets",
+    "team_image": "CHA.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "34",
+    "player_name": "Josh Huestis",
+    "starter": false,
+    "player_id": "203962",
+    "team_name": "thunder",
+    "team_image": "OKC.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "43",
+    "player_name": "Kris Humphries",
+    "starter": false,
+    "player_id": "2743",
+    "team_name": "hawks",
+    "team_image": "ATL.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "9",
+    "player_name": "Serge Ibaka",
+    "starter": true,
+    "player_id": "201586",
+    "team_name": "raptors",
+    "team_image": "TOR.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "9",
+    "player_name": "Andre Iguodala",
+    "starter": false,
+    "player_id": "2738",
+    "team_name": "warriors",
+    "team_image": "GSW.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "7",
+    "player_name": "Ersan Ilyasova",
+    "starter": true,
+    "player_id": "101141",
+    "team_name": "hawks",
+    "team_image": "ATL.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "2",
+    "player_name": "Joe Ingles",
+    "starter": true,
+    "player_id": "204060",
+    "team_name": "jazz",
+    "team_image": "UTA.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "14",
+    "player_name": "Brandon Ingram",
+    "starter": true,
+    "player_id": "1627742",
+    "team_name": "lakers",
+    "team_image": "LAL.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "2",
+    "player_name": "Kyrie Irving",
+    "starter": true,
+    "player_id": "202681",
+    "team_name": "cavaliers",
+    "team_image": "CLE.svg",
+    "rookie": false,
+    "allstar": true
+  },
+  {
+    "player_number": "1",
+    "player_name": "Jonathan Isaac",
+    "starter": false,
+    "player_id": "1628371",
+    "team_name": "magic",
+    "team_image": "ORL.svg",
+    "rookie": true,
+    "allstar": false
+  },
+  {
+    "player_number": "25",
+    "player_name": "Wesley Iwundu",
+    "starter": false,
+    "player_id": "1628411",
+    "team_name": "magic",
+    "team_image": "ORL.svg",
+    "rookie": true,
+    "allstar": false
+  },
+  {
+    "player_number": "",
+    "player_name": "Frank Jackson",
+    "starter": false,
+    "player_id": "1628402",
+    "team_name": "pelicans",
+    "team_image": "NOP.svg",
+    "rookie": true,
+    "allstar": false
+  },
+  {
+    "player_number": "",
+    "player_name": "Josh Jackson",
+    "starter": false,
+    "player_id": "1628367",
+    "team_name": "suns",
+    "team_image": "PHX.svg",
+    "rookie": true,
+    "allstar": false
+  },
+  {
+    "player_number": "25",
+    "player_name": "Justin Jackson",
+    "starter": true,
+    "player_id": "1628382",
+    "team_name": "kings",
+    "team_image": "SAC.svg",
+    "rookie": true,
+    "allstar": false
+  },
+  {
+    "player_number": "1",
+    "player_name": "Reggie Jackson",
+    "starter": true,
+    "player_id": "202704",
+    "team_name": "pistons",
+    "team_image": "DET.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "23",
+    "player_name": "LeBron James",
+    "starter": true,
+    "player_id": "2544",
+    "team_name": "cavaliers",
+    "team_image": "CLE.svg",
+    "rookie": false,
+    "allstar": true
+  },
+  {
+    "player_number": "",
+    "player_name": "Mike James",
+    "starter": false,
+    "player_id": "1628455",
+    "team_name": "suns",
+    "team_image": "PHX.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "",
+    "player_name": "Ognen Jaramaz",
+    "starter": false,
+    "player_id": "1628445",
+    "team_name": "knicks",
+    "team_image": "NYK.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "25",
+    "player_name": "Al Jefferson",
+    "starter": false,
+    "player_id": "2744",
+    "team_name": "pacers",
+    "team_image": "IND.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "24",
+    "player_name": "Richard Jefferson",
+    "starter": false,
+    "player_id": "2210",
+    "team_name": "cavaliers",
+    "team_image": "CLE.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "7",
+    "player_name": "Brandon Jennings",
+    "starter": false,
+    "player_id": "201943",
+    "team_name": "wizards",
+    "team_image": "WAS.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "8",
+    "player_name": "Jonas Jerebko",
+    "starter": false,
+    "player_id": "201973",
+    "team_name": "jazz",
+    "team_image": "UTA.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "5",
+    "player_name": "Amir Johnson",
+    "starter": false,
+    "player_id": "101161",
+    "team_name": "sixers",
+    "team_image": "PHI.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "10",
+    "player_name": "Brice Johnson",
+    "starter": false,
+    "player_id": "1627744",
+    "team_name": "clippers",
+    "team_image": "LAC.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "",
+    "player_name": "Dakari Johnson",
+    "starter": false,
+    "player_id": "1626177",
+    "team_name": "thunder",
+    "team_image": "OKC.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "16",
+    "player_name": "James Johnson",
+    "starter": true,
+    "player_id": "201949",
+    "team_name": "heat",
+    "team_image": "MIA.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "6",
+    "player_name": "Joe Johnson",
+    "starter": false,
+    "player_id": "2207",
+    "team_name": "jazz",
+    "team_image": "UTA.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "7",
+    "player_name": "Stanley Johnson",
+    "starter": false,
+    "player_id": "1626169",
+    "team_name": "pistons",
+    "team_image": "DET.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "8",
+    "player_name": "Tyler Johnson",
+    "starter": false,
+    "player_id": "204020",
+    "team_name": "heat",
+    "team_image": "MIA.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "33",
+    "player_name": "Wesley Johnson",
+    "starter": false,
+    "player_id": "202325",
+    "team_name": "clippers",
+    "team_image": "LAC.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "15",
+    "player_name": "Nikola Jokic",
+    "starter": true,
+    "player_id": "203999",
+    "team_name": "nuggets",
+    "team_image": "DEN.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "10",
+    "player_name": "Derrick Jones Jr.",
+    "starter": false,
+    "player_id": "1627884",
+    "team_name": "suns",
+    "team_image": "PHX.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "30",
+    "player_name": "Dahntay Jones",
+    "starter": false,
+    "player_id": "2563",
+    "team_name": "cavaliers",
+    "team_image": "CLE.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "15",
+    "player_name": "Damian Jones",
+    "starter": false,
+    "player_id": "1627745",
+    "team_name": "warriors",
+    "team_image": "GSW.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "",
+    "player_name": "Jalen Jones",
+    "starter": false,
+    "player_id": "1627883",
+    "team_name": "pelicans",
+    "team_image": "NOP.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "1",
+    "player_name": "Tyus Jones",
+    "starter": false,
+    "player_id": "1626145",
+    "team_name": "timberwolves",
+    "team_image": "MIN.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "6",
+    "player_name": "DeAndre Jordan",
+    "starter": true,
+    "player_id": "201599",
+    "team_name": "clippers",
+    "team_image": "LAC.svg",
+    "rookie": false,
+    "allstar": true
+  },
+  {
+    "player_number": "6",
+    "player_name": "Cory Joseph",
+    "starter": false,
+    "player_id": "202709",
+    "team_name": "pacers",
+    "team_image": "IND.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "11",
+    "player_name": "Alpha Kaba",
+    "starter": false,
+    "player_id": "1628446",
+    "team_name": "hawks",
+    "team_image": "ATL.svg",
+    "rookie": true,
+    "allstar": false
+  },
+  {
+    "player_number": "44",
+    "player_name": "Frank Kaminsky",
+    "starter": false,
+    "player_id": "1626163",
+    "team_name": "hornets",
+    "team_image": "CHA.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "11",
+    "player_name": "Enes Kanter",
+    "starter": false,
+    "player_id": "202683",
+    "team_name": "thunder",
+    "team_image": "OKC.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "5",
+    "player_name": "Luke Kennard",
+    "starter": false,
+    "player_id": "1628379",
+    "team_name": "pistons",
+    "team_image": "DET.svg",
+    "rookie": true,
+    "allstar": false
+  },
+  {
+    "player_number": "14",
+    "player_name": "Michael Kidd-Gilchrist",
+    "starter": true,
+    "player_id": "203077",
+    "team_name": "hornets",
+    "team_image": "CHA.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "6",
+    "player_name": "Sean Kilpatrick",
+    "starter": false,
+    "player_id": "203930",
+    "team_name": "nets",
+    "team_image": "BKN.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "",
+    "player_name": "Maxi Kleber",
+    "starter": false,
+    "player_id": "1628467",
+    "team_name": "mavericks",
+    "team_image": "DAL.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "11",
+    "player_name": "Brandon Knight",
+    "starter": false,
+    "player_id": "202688",
+    "team_name": "suns",
+    "team_image": "PHX.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "",
+    "player_name": "Bronson Koenig",
+    "starter": false,
+    "player_id": "1628460",
+    "team_name": "bucks",
+    "team_image": "MIL.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "16",
+    "player_name": "Furkan Korkmaz",
+    "starter": false,
+    "player_id": "1627788",
+    "team_name": "sixers",
+    "team_image": "PHI.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "",
+    "player_name": "Luke Kornet",
+    "starter": false,
+    "player_id": "1628436",
+    "team_name": "knicks",
+    "team_image": "NYK.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "26",
+    "player_name": "Kyle Korver",
+    "starter": false,
+    "player_id": "2594",
+    "team_name": "cavaliers",
+    "team_image": "CLE.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "41",
+    "player_name": "Kosta Koufos",
+    "starter": false,
+    "player_id": "201585",
+    "team_name": "kings",
+    "team_image": "SAC.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "0",
+    "player_name": "Kyle Kuzma",
+    "starter": false,
+    "player_id": "1628398",
+    "team_name": "lakers",
+    "team_image": "LAL.svg",
+    "rookie": true,
+    "allstar": false
+  },
+  {
+    "player_number": "91",
+    "player_name": "Mindaugas Kuzminskas",
+    "starter": false,
+    "player_id": "1627851",
+    "team_name": "knicks",
+    "team_image": "NYK.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "7",
+    "player_name": "Skal Labissiere",
+    "starter": true,
+    "player_id": "1627746",
+    "team_name": "kings",
+    "team_image": "SAC.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "3",
+    "player_name": "Jeremy Lamb",
+    "starter": false,
+    "player_id": "203087",
+    "team_name": "hornets",
+    "team_image": "CHA.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "11",
+    "player_name": "Shane Larkin",
+    "starter": false,
+    "player_id": "203499",
+    "team_name": "celtics",
+    "team_image": "BOS.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "",
+    "player_name": "Joffrey Lauvergne",
+    "starter": false,
+    "player_id": "203530",
+    "team_name": "spurs",
+    "team_image": "SAS.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "",
+    "player_name": "Zach LaVine",
+    "starter": false,
+    "player_id": "203897",
+    "team_name": "bulls",
+    "team_image": "CHI.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "10",
+    "player_name": "Ty Lawson",
+    "starter": false,
+    "player_id": "201951",
+    "team_name": "kings",
+    "team_image": "SAC.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "10",
+    "player_name": "Jake Layman",
+    "starter": false,
+    "player_id": "1627774",
+    "team_name": "blazers",
+    "team_image": "POR.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "22",
+    "player_name": "T.J. Leaf",
+    "starter": false,
+    "player_id": "1628388",
+    "team_name": "pacers",
+    "team_image": "IND.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "5",
+    "player_name": "Courtney Lee",
+    "starter": false,
+    "player_id": "201584",
+    "team_name": "knicks",
+    "team_image": "NYK.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "10",
+    "player_name": "David Lee",
+    "starter": false,
+    "player_id": "101135",
+    "team_name": "spurs",
+    "team_image": "SAS.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "21",
+    "player_name": "Alex Len",
+    "starter": false,
+    "player_id": "203458",
+    "team_name": "suns",
+    "team_image": "PHX.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "2",
+    "player_name": "Kawhi Leonard",
+    "starter": true,
+    "player_id": "202695",
+    "team_name": "spurs",
+    "team_image": "SAS.svg",
+    "rookie": false,
+    "allstar": true
+  },
+  {
+    "player_number": "11",
+    "player_name": "Meyers Leonard",
+    "starter": false,
+    "player_id": "203086",
+    "team_name": "blazers",
+    "team_image": "POR.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "",
+    "player_name": "Mathias Lessort",
+    "starter": false,
+    "player_id": "1628406",
+    "team_name": "sixers",
+    "team_image": "PHI.svg",
+    "rookie": true,
+    "allstar": false
+  },
+  {
+    "player_number": "30",
+    "player_name": "Jon Leuer",
+    "starter": true,
+    "player_id": "202720",
+    "team_name": "pistons",
+    "team_image": "DET.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "22",
+    "player_name": "Caris LeVert",
+    "starter": false,
+    "player_id": "1627747",
+    "team_name": "nets",
+    "team_image": "BKN.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "",
+    "player_name": "DeAndre Liggins",
+    "starter": false,
+    "player_id": "202732",
+    "team_name": "clippers",
+    "team_image": "LAC.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "0",
+    "player_name": "Damian Lillard",
+    "starter": true,
+    "player_id": "203081",
+    "team_name": "blazers",
+    "team_image": "POR.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "7",
+    "player_name": "Jeremy Lin",
+    "starter": true,
+    "player_id": "202391",
+    "team_name": "nets",
+    "team_image": "BKN.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "34",
+    "player_name": "Shaun Livingston",
+    "starter": false,
+    "player_id": "2733",
+    "team_name": "warriors",
+    "team_image": "GSW.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "",
+    "player_name": "Shawn Long",
+    "starter": false,
+    "player_id": "1627848",
+    "team_name": "rockets",
+    "team_image": "HOU.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "5",
+    "player_name": "Kevon Looney",
+    "starter": false,
+    "player_id": "1626172",
+    "team_name": "warriors",
+    "team_image": "GSW.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "11",
+    "player_name": "Brook Lopez",
+    "starter": true,
+    "player_id": "201572",
+    "team_name": "lakers",
+    "team_image": "LAL.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "8",
+    "player_name": "Robin Lopez",
+    "starter": true,
+    "player_id": "201577",
+    "team_name": "bulls",
+    "team_image": "CHI.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "0",
+    "player_name": "Kevin Love",
+    "starter": true,
+    "player_id": "201567",
+    "team_name": "cavaliers",
+    "team_image": "CLE.svg",
+    "rookie": false,
+    "allstar": true
+  },
+  {
+    "player_number": "7",
+    "player_name": "Kyle Lowry",
+    "starter": true,
+    "player_id": "200768",
+    "team_name": "raptors",
+    "team_image": "TOR.svg",
+    "rookie": false,
+    "allstar": true
+  },
+  {
+    "player_number": "20",
+    "player_name": "Timothe Luwawu-Cabarrot",
+    "starter": false,
+    "player_id": "1627789",
+    "team_name": "sixers",
+    "team_image": "PHI.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "20",
+    "player_name": "Tyler Lydon",
+    "starter": false,
+    "player_id": "1628399",
+    "team_name": "nuggets",
+    "team_image": "DEN.svg",
+    "rookie": true,
+    "allstar": false
+  },
+  {
+    "player_number": "",
+    "player_name": "Trey Lyles",
+    "starter": false,
+    "player_id": "1626168",
+    "team_name": "nuggets",
+    "team_image": "DEN.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "7",
+    "player_name": "Shelvin Mack",
+    "starter": false,
+    "player_id": "202714",
+    "team_name": "magic",
+    "team_image": "ORL.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "28",
+    "player_name": "Ian Mahinmi",
+    "starter": false,
+    "player_id": "101133",
+    "team_name": "wizards",
+    "team_image": "WAS.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "7",
+    "player_name": "Thon Maker",
+    "starter": true,
+    "player_id": "1627748",
+    "team_name": "bucks",
+    "team_image": "MIL.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "51",
+    "player_name": "Boban Marjanovic",
+    "starter": false,
+    "player_id": "1626246",
+    "team_name": "pistons",
+    "team_image": "DET.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "24",
+    "player_name": "Lauri Markkanen",
+    "starter": false,
+    "player_id": "1628374",
+    "team_name": "bulls",
+    "team_image": "CHI.svg",
+    "rookie": true,
+    "allstar": false
+  },
+  {
+    "player_number": "1",
+    "player_name": "Jarell Martin",
+    "starter": false,
+    "player_id": "1626185",
+    "team_name": "grizzlies",
+    "team_image": "MEM.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "10",
+    "player_name": "Frank Mason",
+    "starter": false,
+    "player_id": "1628412",
+    "team_name": "kings",
+    "team_image": "SAC.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "",
+    "player_name": "Mangok Mathiang",
+    "starter": false,
+    "player_id": "1628493",
+    "team_name": "hornets",
+    "team_image": "CHA.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "23",
+    "player_name": "Wesley Matthews",
+    "starter": true,
+    "player_id": "202083",
+    "team_name": "mavericks",
+    "team_image": "DAL.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "",
+    "player_name": "Luc Mbah a Moute",
+    "starter": false,
+    "player_id": "201601",
+    "team_name": "rockets",
+    "team_image": "HOU.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "20",
+    "player_name": "James Michael McAdoo",
+    "starter": false,
+    "player_id": "203949",
+    "team_name": "warriors",
+    "team_image": "GSW.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "0",
+    "player_name": "Patrick McCaw",
+    "starter": false,
+    "player_id": "1627775",
+    "team_name": "warriors",
+    "team_image": "GSW.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "9",
+    "player_name": "Sheldon McClellan",
+    "starter": false,
+    "player_id": "1627815",
+    "team_name": "wizards",
+    "team_image": "WAS.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "3",
+    "player_name": "CJ McCollum",
+    "starter": false,
+    "player_id": "203468",
+    "team_name": "blazers",
+    "team_image": "POR.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "1",
+    "player_name": "T.J. McConnell",
+    "starter": false,
+    "player_id": "204456",
+    "team_name": "sixers",
+    "team_image": "PHI.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "1",
+    "player_name": "Chris McCullough",
+    "starter": false,
+    "player_id": "1626191",
+    "team_name": "wizards",
+    "team_image": "WAS.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "14",
+    "player_name": "KJ McDaniels",
+    "starter": false,
+    "player_id": "203909",
+    "team_name": "nets",
+    "team_image": "BKN.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "25",
+    "player_name": "Doug McDermott",
+    "starter": false,
+    "player_id": "203926",
+    "team_name": "thunder",
+    "team_image": "OKC.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "1",
+    "player_name": "JaVale McGee",
+    "starter": false,
+    "player_id": "201580",
+    "team_name": "warriors",
+    "team_image": "GSW.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "17",
+    "player_name": "Rodney McGruder",
+    "starter": false,
+    "player_id": "203585",
+    "team_name": "heat",
+    "team_image": "MIA.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "",
+    "player_name": "Alfonzo McKinnie",
+    "starter": false,
+    "player_id": "1628035",
+    "team_name": "raptors",
+    "team_image": "TOR.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "",
+    "player_name": "Ben McLemore",
+    "starter": true,
+    "player_id": "203463",
+    "team_name": "grizzlies",
+    "team_image": "MEM.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "",
+    "player_name": "Josh McRoberts",
+    "starter": false,
+    "player_id": "201177",
+    "team_name": "mavericks",
+    "team_image": "DAL.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "",
+    "player_name": "Jodie Meeks",
+    "starter": false,
+    "player_id": "201975",
+    "team_name": "wizards",
+    "team_image": "WAS.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "50",
+    "player_name": "Salah Mejri",
+    "starter": false,
+    "player_id": "1626257",
+    "team_name": "mavericks",
+    "team_image": "DAL.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "22",
+    "player_name": "Khris Middleton",
+    "starter": true,
+    "player_id": "203114",
+    "team_name": "bucks",
+    "team_image": "MIL.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "",
+    "player_name": "CJ Miles",
+    "starter": false,
+    "player_id": "101139",
+    "team_name": "raptors",
+    "team_image": "TOR.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "",
+    "player_name": "Darius Miller",
+    "starter": false,
+    "player_id": "203121",
+    "team_name": "pelicans",
+    "team_image": "NOP.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "",
+    "player_name": "Malcolm Miller",
+    "starter": false,
+    "player_id": "1626259",
+    "team_name": "raptors",
+    "team_image": "TOR.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "22",
+    "player_name": "Elijah Millsap",
+    "starter": false,
+    "player_id": "202407",
+    "team_name": "suns",
+    "team_image": "PHX.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "",
+    "player_name": "Paul Millsap",
+    "starter": true,
+    "player_id": "200794",
+    "team_name": "nuggets",
+    "team_image": "DEN.svg",
+    "rookie": false,
+    "allstar": true
+  },
+  {
+    "player_number": "8",
+    "player_name": "Patty Mills",
+    "starter": false,
+    "player_id": "201988",
+    "team_name": "spurs",
+    "team_image": "SAS.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "44",
+    "player_name": "Nikola Mirotic",
+    "starter": true,
+    "player_id": "202703",
+    "team_name": "bulls",
+    "team_image": "CHI.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "",
+    "player_name": "Donovan Mitchell",
+    "starter": false,
+    "player_id": "1628378",
+    "team_name": "jazz",
+    "team_image": "UTA.svg",
+    "rookie": true,
+    "allstar": false
+  },
+  {
+    "player_number": "",
+    "player_name": "Malik Monk",
+    "starter": false,
+    "player_id": "1628370",
+    "team_name": "hornets",
+    "team_image": "CHA.svg",
+    "rookie": true,
+    "allstar": false
+  },
+  {
+    "player_number": "15",
+    "player_name": "Greg Monroe",
+    "starter": false,
+    "player_id": "202328",
+    "team_name": "bucks",
+    "team_image": "MIL.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "",
+    "player_name": "Luis Montero",
+    "starter": false,
+    "player_id": "1626242",
+    "team_name": "mavericks",
+    "team_image": "DAL.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "55",
+    "player_name": "E'Twaun Moore",
+    "starter": false,
+    "player_id": "202734",
+    "team_name": "pelicans",
+    "team_image": "NOP.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "24",
+    "player_name": "Eric Moreland",
+    "starter": false,
+    "player_id": "203961",
+    "team_name": "pistons",
+    "team_image": "DET.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "13",
+    "player_name": "Marcus Morris",
+    "starter": false,
+    "player_id": "202694",
+    "team_name": "celtics",
+    "team_image": "BOS.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "5",
+    "player_name": "Markieff Morris",
+    "starter": true,
+    "player_id": "202693",
+    "team_name": "wizards",
+    "team_image": "WAS.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "",
+    "player_name": "Monte Morris",
+    "starter": false,
+    "player_id": "1628420",
+    "team_name": "nuggets",
+    "team_image": "DEN.svg",
+    "rookie": true,
+    "allstar": false
+  },
+  {
+    "player_number": "11",
+    "player_name": "Anthony Morrow",
+    "starter": false,
+    "player_id": "201627",
+    "team_name": "bulls",
+    "team_image": "CHI.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "12",
+    "player_name": "Donatas Motiejunas",
+    "starter": false,
+    "player_id": "202700",
+    "team_name": "pelicans",
+    "team_image": "NOP.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "55",
+    "player_name": "Johnathan Motley",
+    "starter": false,
+    "player_id": "1628405",
+    "team_name": "mavericks",
+    "team_image": "DAL.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "",
+    "player_name": "Timofey Mozgov",
+    "starter": true,
+    "player_id": "202389",
+    "team_name": "nets",
+    "team_image": "BKN.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "0",
+    "player_name": "Emmanuel Mudiay",
+    "starter": false,
+    "player_id": "1626144",
+    "team_name": "nuggets",
+    "team_image": "DEN.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "15",
+    "player_name": "Shabazz Muhammad",
+    "starter": false,
+    "player_id": "203498",
+    "team_name": "timberwolves",
+    "team_image": "MIN.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "5",
+    "player_name": "Dejounte Murray",
+    "starter": false,
+    "player_id": "1627749",
+    "team_name": "spurs",
+    "team_image": "SAS.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "27",
+    "player_name": "Jamal Murray",
+    "starter": true,
+    "player_id": "1627750",
+    "team_name": "nuggets",
+    "team_image": "DEN.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "31",
+    "player_name": "Mike Muscala",
+    "starter": false,
+    "player_id": "203488",
+    "team_name": "hawks",
+    "team_image": "ATL.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "28",
+    "player_name": "Abdel Nader",
+    "starter": false,
+    "player_id": "1627846",
+    "team_name": "celtics",
+    "team_image": "BOS.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "7",
+    "player_name": "Larry Nance Jr.",
+    "starter": false,
+    "player_id": "1626204",
+    "team_name": "lakers",
+    "team_image": "LAL.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "6",
+    "player_name": "Shabazz Napier",
+    "starter": false,
+    "player_id": "203894",
+    "team_name": "blazers",
+    "team_image": "POR.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "1",
+    "player_name": "Jameer Nelson",
+    "starter": false,
+    "player_id": "2749",
+    "team_name": "nuggets",
+    "team_image": "DEN.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "42",
+    "player_name": "Nene ",
+    "starter": false,
+    "player_id": "2403",
+    "team_name": "rockets",
+    "team_image": "HOU.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "25",
+    "player_name": "Raul Neto",
+    "starter": false,
+    "player_id": "203526",
+    "team_name": "jazz",
+    "team_image": "UTA.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "",
+    "player_name": "Andrew Nicholson",
+    "starter": false,
+    "player_id": "203094",
+    "team_name": "blazers",
+    "team_image": "POR.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "13",
+    "player_name": "Joakim Noah",
+    "starter": false,
+    "player_id": "201149",
+    "team_name": "knicks",
+    "team_image": "NYK.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "3",
+    "player_name": "Nerlens Noel",
+    "starter": false,
+    "player_id": "203457",
+    "team_name": "mavericks",
+    "team_image": "DAL.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "92",
+    "player_name": "Lucas Nogueira",
+    "starter": false,
+    "player_id": "203512",
+    "team_name": "raptors",
+    "team_image": "TOR.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "41",
+    "player_name": "Dirk Nowitzki",
+    "starter": true,
+    "player_id": "1717",
+    "team_name": "mavericks",
+    "team_image": "DAL.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "",
+    "player_name": "Frank Ntilikina",
+    "starter": true,
+    "player_id": "1628373",
+    "team_name": "knicks",
+    "team_image": "NYK.svg",
+    "rookie": true,
+    "allstar": false
+  },
+  {
+    "player_number": "27",
+    "player_name": "Jusuf Nurkic",
+    "starter": true,
+    "player_id": "203994",
+    "team_name": "blazers",
+    "team_image": "POR.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "",
+    "player_name": "David Nwaba",
+    "starter": false,
+    "player_id": "1628021",
+    "team_name": "bulls",
+    "team_image": "CHI.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "8",
+    "player_name": "Johnny O'Bryant III",
+    "starter": false,
+    "player_id": "203948",
+    "team_name": "hornets",
+    "team_image": "CHA.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "23",
+    "player_name": "Royce O'Neale",
+    "starter": false,
+    "player_id": "1626220",
+    "team_name": "jazz",
+    "team_image": "UTA.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "9",
+    "player_name": "Kyle O'Quinn",
+    "starter": false,
+    "player_id": "203124",
+    "team_name": "knicks",
+    "team_image": "NYK.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "32",
+    "player_name": "Daniel Ochefu",
+    "starter": false,
+    "player_id": "1627849",
+    "team_name": "wizards",
+    "team_image": "WAS.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "37",
+    "player_name": "Semi Ojeleye",
+    "starter": false,
+    "player_id": "1628400",
+    "team_name": "celtics",
+    "team_image": "BOS.svg",
+    "rookie": true,
+    "allstar": false
+  },
+  {
+    "player_number": "8",
+    "player_name": "Jahlil Okafor",
+    "starter": false,
+    "player_id": "1626143",
+    "team_name": "sixers",
+    "team_image": "PHI.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "4",
+    "player_name": "Victor Oladipo",
+    "starter": true,
+    "player_id": "203506",
+    "team_name": "pacers",
+    "team_image": "IND.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "",
+    "player_name": "Cameron Oliver",
+    "starter": false,
+    "player_id": "1628419",
+    "team_name": "rockets",
+    "team_image": "HOU.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "",
+    "player_name": "Kelly Olynyk",
+    "starter": false,
+    "player_id": "203482",
+    "team_name": "heat",
+    "team_image": "MIA.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "21",
+    "player_name": "Chinanu Onuaku",
+    "starter": false,
+    "player_id": "1627778",
+    "team_name": "rockets",
+    "team_image": "HOU.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "",
+    "player_name": "Cedi Osman",
+    "starter": false,
+    "player_id": "1626224",
+    "team_name": "cavaliers",
+    "team_image": "CLE.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "",
+    "player_name": "Yakuba Ouattara",
+    "starter": false,
+    "player_id": "1628473",
+    "team_name": "nets",
+    "team_image": "BKN.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "12",
+    "player_name": "Kelly Oubre Jr.",
+    "starter": false,
+    "player_id": "1626162",
+    "team_name": "wizards",
+    "team_image": "WAS.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "27",
+    "player_name": "Zaza Pachulia",
+    "starter": true,
+    "player_id": "2585",
+    "team_name": "warriors",
+    "team_image": "GSW.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "",
+    "player_name": "Marcus Paige",
+    "starter": false,
+    "player_id": "1627779",
+    "team_name": "timberwolves",
+    "team_image": "MIN.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "13",
+    "player_name": "Georgios Papagiannis",
+    "starter": false,
+    "player_id": "1627834",
+    "team_name": "kings",
+    "team_image": "SAC.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "12",
+    "player_name": "Jabari Parker",
+    "starter": false,
+    "player_id": "203953",
+    "team_name": "bucks",
+    "team_image": "MIL.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "9",
+    "player_name": "Tony Parker",
+    "starter": true,
+    "player_id": "2225",
+    "team_name": "spurs",
+    "team_image": "SAS.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "25",
+    "player_name": "Chandler Parsons",
+    "starter": true,
+    "player_id": "202718",
+    "team_name": "grizzlies",
+    "team_image": "MEM.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "",
+    "player_name": "Anzejs Pasecniks",
+    "starter": false,
+    "player_id": "1628394",
+    "team_name": "sixers",
+    "team_image": "PHI.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "",
+    "player_name": "Patrick Patterson",
+    "starter": true,
+    "player_id": "202335",
+    "team_name": "thunder",
+    "team_image": "OKC.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "",
+    "player_name": "Justin Patton",
+    "starter": false,
+    "player_id": "1628383",
+    "team_name": "timberwolves",
+    "team_image": "MIN.svg",
+    "rookie": true,
+    "allstar": false
+  },
+  {
+    "player_number": "",
+    "player_name": "Brandon Paul",
+    "starter": false,
+    "player_id": "203464",
+    "team_name": "cavaliers",
+    "team_image": "CLE.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "",
+    "player_name": "Chris Paul",
+    "starter": true,
+    "player_id": "101108",
+    "team_name": "rockets",
+    "team_image": "HOU.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "33",
+    "player_name": "Adreian Payne",
+    "starter": false,
+    "player_id": "203940",
+    "team_name": "timberwolves",
+    "team_image": "MIN.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "22",
+    "player_name": "Cameron Payne",
+    "starter": false,
+    "player_id": "1626166",
+    "team_name": "bulls",
+    "team_image": "CHI.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "0",
+    "player_name": "Gary Payton II",
+    "starter": false,
+    "player_id": "1627780",
+    "team_name": "bucks",
+    "team_image": "MIL.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "2",
+    "player_name": "Elfrid Payton",
+    "starter": true,
+    "player_id": "203901",
+    "team_name": "magic",
+    "team_image": "ORL.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "",
+    "player_name": "Alec Peters",
+    "starter": false,
+    "player_id": "1628409",
+    "team_name": "suns",
+    "team_image": "PHX.svg",
+    "rookie": true,
+    "allstar": false
+  },
+  {
+    "player_number": "24",
+    "player_name": "Mason Plumlee",
+    "starter": false,
+    "player_id": "203486",
+    "team_name": "nuggets",
+    "team_image": "DEN.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "",
+    "player_name": "Miles Plumlee",
+    "starter": false,
+    "player_id": "203101",
+    "team_name": "hawks",
+    "team_image": "ATL.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "42",
+    "player_name": "Jakob Poeltl",
+    "starter": false,
+    "player_id": "1627751",
+    "team_name": "raptors",
+    "team_image": "TOR.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "20",
+    "player_name": "Quincy Pondexter",
+    "starter": false,
+    "player_id": "202347",
+    "team_name": "pelicans",
+    "team_image": "NOP.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "22",
+    "player_name": "Otto Porter Jr.",
+    "starter": false,
+    "player_id": "203490",
+    "team_name": "wizards",
+    "team_image": "WAS.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "5",
+    "player_name": "Bobby Portis",
+    "starter": false,
+    "player_id": "1626171",
+    "team_name": "bulls",
+    "team_image": "CHI.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "6",
+    "player_name": "Kristaps Porzingis",
+    "starter": true,
+    "player_id": "204001",
+    "team_name": "knicks",
+    "team_image": "NYK.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "7",
+    "player_name": "Dwight Powell",
+    "starter": false,
+    "player_id": "203939",
+    "team_name": "mavericks",
+    "team_image": "DAL.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "24",
+    "player_name": "Norman Powell",
+    "starter": false,
+    "player_id": "1626181",
+    "team_name": "raptors",
+    "team_image": "TOR.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "5",
+    "player_name": "Alex Poythress",
+    "starter": false,
+    "player_id": "1627816",
+    "team_name": "sixers",
+    "team_image": "PHI.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "12",
+    "player_name": "Taurean Prince",
+    "starter": true,
+    "player_id": "1627752",
+    "team_name": "hawks",
+    "team_image": "ATL.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "",
+    "player_name": "Tim Quarterman",
+    "starter": false,
+    "player_id": "1627817",
+    "team_name": "rockets",
+    "team_image": "HOU.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "",
+    "player_name": "Ivan Rabb",
+    "starter": false,
+    "player_id": "1628397",
+    "team_name": "grizzlies",
+    "team_image": "MEM.svg",
+    "rookie": true,
+    "allstar": false
+  },
+  {
+    "player_number": "4",
+    "player_name": "Chasson Randle",
+    "starter": false,
+    "player_id": "1626184",
+    "team_name": "knicks",
+    "team_image": "NYK.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "30",
+    "player_name": "Julius Randle",
+    "starter": true,
+    "player_id": "203944",
+    "team_name": "lakers",
+    "team_image": "LAL.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "50",
+    "player_name": "Zach Randolph",
+    "starter": false,
+    "player_id": "2216",
+    "team_name": "kings",
+    "team_image": "SAC.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "17",
+    "player_name": "JJ Redick",
+    "starter": false,
+    "player_id": "200755",
+    "team_name": "sixers",
+    "team_image": "PHI.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "",
+    "player_name": "Davon Reed",
+    "starter": false,
+    "player_id": "1628432",
+    "team_name": "suns",
+    "team_image": "PHX.svg",
+    "rookie": true,
+    "allstar": false
+  },
+  {
+    "player_number": "",
+    "player_name": "Willie Reed",
+    "starter": false,
+    "player_id": "203186",
+    "team_name": "clippers",
+    "team_image": "LAC.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "0",
+    "player_name": "Josh Richardson",
+    "starter": true,
+    "player_id": "1626196",
+    "team_name": "heat",
+    "team_image": "MIA.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "23",
+    "player_name": "Malachi Richardson",
+    "starter": false,
+    "player_id": "1627781",
+    "team_name": "kings",
+    "team_image": "SAC.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "25",
+    "player_name": "Austin Rivers",
+    "starter": true,
+    "player_id": "203085",
+    "team_name": "clippers",
+    "team_image": "LAC.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "21",
+    "player_name": "Andre Roberson",
+    "starter": true,
+    "player_id": "203460",
+    "team_name": "thunder",
+    "team_image": "OKC.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "22",
+    "player_name": "Brian Roberts",
+    "starter": false,
+    "player_id": "203148",
+    "team_name": "hornets",
+    "team_image": "CHA.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "40",
+    "player_name": "Glenn Robinson III",
+    "starter": false,
+    "player_id": "203922",
+    "team_name": "pacers",
+    "team_image": "IND.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "",
+    "player_name": "Devin Robinson",
+    "starter": false,
+    "player_id": "1628421",
+    "team_name": "wizards",
+    "team_image": "WAS.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "15",
+    "player_name": "Thomas Robinson",
+    "starter": false,
+    "player_id": "203080",
+    "team_name": "lakers",
+    "team_image": "LAL.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "14",
+    "player_name": "Sergio Rodriguez",
+    "starter": false,
+    "player_id": "200771",
+    "team_name": "sixers",
+    "team_image": "PHI.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "",
+    "player_name": "Rajon Rondo",
+    "starter": true,
+    "player_id": "200765",
+    "team_name": "pelicans",
+    "team_image": "NOP.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "",
+    "player_name": "Derrick Rose",
+    "starter": false,
+    "player_id": "201565",
+    "team_name": "cavaliers",
+    "team_image": "CLE.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "31",
+    "player_name": "Terrence Ross",
+    "starter": true,
+    "player_id": "203082",
+    "team_name": "magic",
+    "team_image": "ORL.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "12",
+    "player_name": "Terry Rozier",
+    "starter": false,
+    "player_id": "1626179",
+    "team_name": "celtics",
+    "team_image": "BOS.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "",
+    "player_name": "Ricky Rubio",
+    "starter": true,
+    "player_id": "201937",
+    "team_name": "jazz",
+    "team_image": "UTA.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "3",
+    "player_name": "Damjan Rudez",
+    "starter": false,
+    "player_id": "204014",
+    "team_name": "magic",
+    "team_image": "ORL.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "4",
+    "player_name": "Brandon Rush",
+    "starter": false,
+    "player_id": "201575",
+    "team_name": "timberwolves",
+    "team_image": "MIN.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "",
+    "player_name": "D'Angelo Russell",
+    "starter": true,
+    "player_id": "1626156",
+    "team_name": "nets",
+    "team_image": "BKN.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "11",
+    "player_name": "Domantas Sabonis",
+    "starter": false,
+    "player_id": "1627734",
+    "team_name": "pacers",
+    "team_image": "IND.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "",
+    "player_name": "JaKarr Sampson",
+    "starter": false,
+    "player_id": "203960",
+    "team_name": "kings",
+    "team_image": "SAC.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "9",
+    "player_name": "Dario Saric",
+    "starter": false,
+    "player_id": "203967",
+    "team_name": "sixers",
+    "team_image": "PHI.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "31",
+    "player_name": "Tomas Satoransky",
+    "starter": false,
+    "player_id": "203107",
+    "team_name": "wizards",
+    "team_image": "WAS.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "17",
+    "player_name": "Dennis Schroder",
+    "starter": true,
+    "player_id": "203471",
+    "team_name": "hawks",
+    "team_image": "ATL.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "",
+    "player_name": "Mike Scott",
+    "starter": false,
+    "player_id": "203118",
+    "team_name": "wizards",
+    "team_image": "WAS.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "22",
+    "player_name": "Thabo Sefolosha",
+    "starter": false,
+    "player_id": "200757",
+    "team_name": "jazz",
+    "team_image": "UTA.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "7",
+    "player_name": "Wayne Selden",
+    "starter": false,
+    "player_id": "1627782",
+    "team_name": "grizzlies",
+    "team_image": "MEM.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "7",
+    "player_name": "Ramon Sessions",
+    "starter": false,
+    "player_id": "201196",
+    "team_name": "hornets",
+    "team_image": "CHA.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "4",
+    "player_name": "Iman Shumpert",
+    "starter": false,
+    "player_id": "202697",
+    "team_name": "cavaliers",
+    "team_image": "CLE.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "43",
+    "player_name": "Pascal Siakam",
+    "starter": false,
+    "player_id": "1627783",
+    "team_name": "raptors",
+    "team_image": "TOR.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "25",
+    "player_name": "Ben Simmons",
+    "starter": true,
+    "player_id": "1627732",
+    "team_name": "sixers",
+    "team_image": "PHI.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "17",
+    "player_name": "Jonathon Simmons",
+    "starter": false,
+    "player_id": "203613",
+    "team_name": "magic",
+    "team_image": "ORL.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "",
+    "player_name": "Kobi Simmons",
+    "starter": false,
+    "player_id": "1628424",
+    "team_name": "grizzlies",
+    "team_image": "MEM.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "15",
+    "player_name": "Kyle Singler",
+    "starter": false,
+    "player_id": "202713",
+    "team_name": "thunder",
+    "team_image": "OKC.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "36",
+    "player_name": "Marcus Smart",
+    "starter": false,
+    "player_id": "203935",
+    "team_name": "celtics",
+    "team_image": "BOS.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "1",
+    "player_name": "Dennis Smith Jr.",
+    "starter": false,
+    "player_id": "1628372",
+    "team_name": "mavericks",
+    "team_image": "DAL.svg",
+    "rookie": true,
+    "allstar": false
+  },
+  {
+    "player_number": "14",
+    "player_name": "Ish Smith",
+    "starter": false,
+    "player_id": "202397",
+    "team_name": "pistons",
+    "team_image": "DET.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "14",
+    "player_name": "Jason Smith",
+    "starter": false,
+    "player_id": "201160",
+    "team_name": "wizards",
+    "team_image": "WAS.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "5",
+    "player_name": "JR Smith",
+    "starter": false,
+    "player_id": "2747",
+    "team_name": "cavaliers",
+    "team_image": "CLE.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "21",
+    "player_name": "Tony Snell",
+    "starter": true,
+    "player_id": "203503",
+    "team_name": "bucks",
+    "team_image": "MIL.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "",
+    "player_name": "Marreese Speights",
+    "starter": false,
+    "player_id": "201578",
+    "team_name": "magic",
+    "team_image": "ORL.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "47",
+    "player_name": "Tiago Splitter",
+    "starter": false,
+    "player_id": "201168",
+    "team_name": "sixers",
+    "team_image": "PHI.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "11",
+    "player_name": "Nik Stauskas",
+    "starter": false,
+    "player_id": "203917",
+    "team_name": "sixers",
+    "team_image": "PHI.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "1",
+    "player_name": "Lance Stephenson",
+    "starter": false,
+    "player_id": "202362",
+    "team_name": "pacers",
+    "team_image": "IND.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "33",
+    "player_name": "Diamond Stone",
+    "starter": false,
+    "player_id": "1627754",
+    "team_name": "hawks",
+    "team_image": "ATL.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "5",
+    "player_name": "Edmond Sumner",
+    "starter": false,
+    "player_id": "1628410",
+    "team_name": "pacers",
+    "team_image": "IND.svg",
+    "rookie": true,
+    "allstar": false
+  },
+  {
+    "player_number": "",
+    "player_name": "Caleb Swanigan",
+    "starter": false,
+    "player_id": "1628403",
+    "team_name": "blazers",
+    "team_image": "POR.svg",
+    "rookie": true,
+    "allstar": false
+  },
+  {
+    "player_number": "0",
+    "player_name": "Jayson Tatum",
+    "starter": false,
+    "player_id": "1628369",
+    "team_name": "celtics",
+    "team_image": "BOS.svg",
+    "rookie": true,
+    "allstar": false
+  },
+  {
+    "player_number": "40",
+    "player_name": "Edy Tavares",
+    "starter": false,
+    "player_id": "204002",
+    "team_name": "cavaliers",
+    "team_image": "CLE.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "17",
+    "player_name": "Isaiah Taylor",
+    "starter": false,
+    "player_id": "1627819",
+    "team_name": "rockets",
+    "team_image": "HOU.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "",
+    "player_name": "Jeff Teague",
+    "starter": true,
+    "player_id": "201952",
+    "team_name": "timberwolves",
+    "team_image": "MIN.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "35",
+    "player_name": "Mirza Teletovic",
+    "starter": false,
+    "player_id": "203141",
+    "team_name": "bucks",
+    "team_image": "MIL.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "17",
+    "player_name": "Garrett Temple",
+    "starter": false,
+    "player_id": "202066",
+    "team_name": "kings",
+    "team_image": "SAC.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "",
+    "player_name": "Milos Teodosic",
+    "starter": false,
+    "player_id": "267634",
+    "team_name": "clippers",
+    "team_image": "LAC.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "3",
+    "player_name": "Jason Terry",
+    "starter": false,
+    "player_id": "1891",
+    "team_name": "bucks",
+    "team_image": "MIL.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "27",
+    "player_name": "Daniel Theis",
+    "starter": false,
+    "player_id": "43019",
+    "team_name": "celtics",
+    "team_image": "BOS.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "4",
+    "player_name": "Isaiah Thomas",
+    "starter": true,
+    "player_id": "202738",
+    "team_name": "celtics",
+    "team_image": "BOS.svg",
+    "rookie": false,
+    "allstar": true
+  },
+  {
+    "player_number": "42",
+    "player_name": "Lance Thomas",
+    "starter": false,
+    "player_id": "202498",
+    "team_name": "knicks",
+    "team_image": "NYK.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "11",
+    "player_name": "Klay Thompson",
+    "starter": true,
+    "player_id": "202691",
+    "team_name": "warriors",
+    "team_image": "GSW.svg",
+    "rookie": false,
+    "allstar": true
+  },
+  {
+    "player_number": "13",
+    "player_name": "Tristan Thompson",
+    "starter": true,
+    "player_id": "202684",
+    "team_name": "cavaliers",
+    "team_image": "CLE.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "",
+    "player_name": "Sindarius Thornwell",
+    "starter": false,
+    "player_id": "1628414",
+    "team_name": "clippers",
+    "team_image": "LAC.svg",
+    "rookie": true,
+    "allstar": false
+  },
+  {
+    "player_number": "",
+    "player_name": "Anthony Tolliver",
+    "starter": false,
+    "player_id": "201229",
+    "team_name": "pistons",
+    "team_image": "DET.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "32",
+    "player_name": "Karl-Anthony Towns",
+    "starter": true,
+    "player_id": "1626157",
+    "team_name": "timberwolves",
+    "team_image": "MIN.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "",
+    "player_name": "PJ Tucker",
+    "starter": false,
+    "player_id": "200782",
+    "team_name": "rockets",
+    "team_image": "HOU.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "1",
+    "player_name": "Evan Turner",
+    "starter": false,
+    "player_id": "202323",
+    "team_name": "blazers",
+    "team_image": "POR.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "33",
+    "player_name": "Myles Turner",
+    "starter": true,
+    "player_id": "1626167",
+    "team_name": "pacers",
+    "team_image": "IND.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "33",
+    "player_name": "Ekpe Udoh",
+    "starter": false,
+    "player_id": "202327",
+    "team_name": "jazz",
+    "team_image": "UTA.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "19",
+    "player_name": "Beno Udrih",
+    "starter": false,
+    "player_id": "2757",
+    "team_name": "pistons",
+    "team_image": "DET.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "8",
+    "player_name": "Tyler Ulis",
+    "starter": false,
+    "player_id": "1627755",
+    "team_name": "suns",
+    "team_image": "PHX.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "17",
+    "player_name": "Jonas Valanciunas",
+    "starter": true,
+    "player_id": "202685",
+    "team_name": "raptors",
+    "team_image": "TOR.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "45",
+    "player_name": "Denzel Valentine",
+    "starter": false,
+    "player_id": "1627756",
+    "team_name": "bulls",
+    "team_image": "CHI.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "23",
+    "player_name": "Fred VanVleet",
+    "starter": false,
+    "player_id": "1627832",
+    "team_name": "raptors",
+    "team_image": "TOR.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "20",
+    "player_name": "Rashad Vaughn",
+    "starter": false,
+    "player_id": "1626173",
+    "team_name": "bucks",
+    "team_image": "MIL.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "",
+    "player_name": "Aleks Vezenkov",
+    "starter": false,
+    "player_id": "1628426",
+    "team_name": "nets",
+    "team_image": "BKN.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "21",
+    "player_name": "Noah Vonleh",
+    "starter": false,
+    "player_id": "203943",
+    "team_name": "blazers",
+    "team_image": "POR.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "9",
+    "player_name": "Nikola Vucevic",
+    "starter": true,
+    "player_id": "202696",
+    "team_name": "magic",
+    "team_image": "ORL.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "18",
+    "player_name": "Sasha Vujacic",
+    "starter": false,
+    "player_id": "2756",
+    "team_name": "knicks",
+    "team_image": "NYK.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "3",
+    "player_name": "Dwyane Wade",
+    "starter": true,
+    "player_id": "2548",
+    "team_name": "bulls",
+    "team_image": "CHI.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "11",
+    "player_name": "Dion Waiters",
+    "starter": false,
+    "player_id": "203079",
+    "team_name": "heat",
+    "team_image": "MIA.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "15",
+    "player_name": "Kemba Walker",
+    "starter": true,
+    "player_id": "202689",
+    "team_name": "hornets",
+    "team_image": "CHA.svg",
+    "rookie": false,
+    "allstar": true
+  },
+  {
+    "player_number": "2",
+    "player_name": "John Wall",
+    "starter": true,
+    "player_id": "202322",
+    "team_name": "wizards",
+    "team_image": "WAS.svg",
+    "rookie": false,
+    "allstar": true
+  },
+  {
+    "player_number": "12",
+    "player_name": "TJ Warren",
+    "starter": false,
+    "player_id": "203933",
+    "team_name": "suns",
+    "team_image": "PHX.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "0",
+    "player_name": "Russell Westbrook",
+    "starter": true,
+    "player_id": "201566",
+    "team_name": "thunder",
+    "team_image": "OKC.svg",
+    "rookie": false,
+    "allstar": true
+  },
+  {
+    "player_number": "3",
+    "player_name": "David West",
+    "starter": false,
+    "player_id": "2561",
+    "team_name": "warriors",
+    "team_image": "GSW.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "4",
+    "player_name": "Derrick White",
+    "starter": false,
+    "player_id": "1628401",
+    "team_name": "spurs",
+    "team_image": "SAS.svg",
+    "rookie": true,
+    "allstar": false
+  },
+  {
+    "player_number": "15",
+    "player_name": "Isaiah Whitehead",
+    "starter": false,
+    "player_id": "1627785",
+    "team_name": "nets",
+    "team_image": "BKN.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "15",
+    "player_name": "Okaro White",
+    "starter": false,
+    "player_id": "1627855",
+    "team_name": "heat",
+    "team_image": "MIA.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "21",
+    "player_name": "Hassan Whiteside",
+    "starter": true,
+    "player_id": "202355",
+    "team_name": "heat",
+    "team_image": "MIA.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "22",
+    "player_name": "Andrew Wiggins",
+    "starter": true,
+    "player_id": "203952",
+    "team_name": "timberwolves",
+    "team_image": "MIN.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "",
+    "player_name": "Nigel Williams-Goss",
+    "starter": false,
+    "player_id": "1628430",
+    "team_name": "jazz",
+    "team_image": "UTA.svg",
+    "rookie": true,
+    "allstar": false
+  },
+  {
+    "player_number": "15",
+    "player_name": "Alan Williams",
+    "starter": false,
+    "player_id": "1626210",
+    "team_name": "suns",
+    "team_image": "PHX.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "31",
+    "player_name": "Deron Williams",
+    "starter": false,
+    "player_id": "101114",
+    "team_name": "cavaliers",
+    "team_image": "CLE.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "3",
+    "player_name": "Derrick Williams",
+    "starter": false,
+    "player_id": "202682",
+    "team_name": "cavaliers",
+    "team_image": "CLE.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "",
+    "player_name": "Lou Williams",
+    "starter": false,
+    "player_id": "101150",
+    "team_name": "clippers",
+    "team_image": "LAC.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "2",
+    "player_name": "Marvin Williams",
+    "starter": true,
+    "player_id": "101107",
+    "team_name": "hornets",
+    "team_image": "CHA.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "",
+    "player_name": "T.J. Williams",
+    "starter": false,
+    "player_id": "1628494",
+    "team_name": "hornets",
+    "team_image": "CHA.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "14",
+    "player_name": "Troy Williams",
+    "starter": false,
+    "player_id": "1627786",
+    "team_name": "rockets",
+    "team_image": "HOU.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "",
+    "player_name": "D.J. Wilson",
+    "starter": false,
+    "player_id": "1628391",
+    "team_name": "bucks",
+    "team_image": "MIL.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "",
+    "player_name": "Jamil Wilson",
+    "starter": false,
+    "player_id": "203966",
+    "team_name": "clippers",
+    "team_image": "LAC.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "20",
+    "player_name": "Justise Winslow",
+    "starter": true,
+    "player_id": "1626159",
+    "team_name": "heat",
+    "team_image": "MIA.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "24",
+    "player_name": "Jeff Withey",
+    "starter": false,
+    "player_id": "203481",
+    "team_name": "jazz",
+    "team_image": "UTA.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "35",
+    "player_name": "Christian Wood",
+    "starter": false,
+    "player_id": "1626174",
+    "team_name": "mavericks",
+    "team_image": "DAL.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "37",
+    "player_name": "Metta World Peace",
+    "starter": false,
+    "player_id": "1897",
+    "team_name": "lakers",
+    "team_image": "LAL.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "34",
+    "player_name": "Brandan Wright",
+    "starter": false,
+    "player_id": "201148",
+    "team_name": "grizzlies",
+    "team_image": "MEM.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "55",
+    "player_name": "Delon Wright",
+    "starter": false,
+    "player_id": "1626153",
+    "team_name": "raptors",
+    "team_image": "TOR.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "30",
+    "player_name": "Guerschon Yabusele",
+    "starter": false,
+    "player_id": "1627824",
+    "team_name": "celtics",
+    "team_image": "BOS.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "13",
+    "player_name": "James Young",
+    "starter": false,
+    "player_id": "203923",
+    "team_name": "celtics",
+    "team_image": "BOS.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "3",
+    "player_name": "Joe Young",
+    "starter": false,
+    "player_id": "1626202",
+    "team_name": "pacers",
+    "team_image": "IND.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "",
+    "player_name": "Nick Young",
+    "starter": false,
+    "player_id": "201156",
+    "team_name": "warriors",
+    "team_image": "GSW.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "21",
+    "player_name": "Thaddeus Young",
+    "starter": true,
+    "player_id": "201152",
+    "team_name": "pacers",
+    "team_image": "IND.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "",
+    "player_name": "Rade Zagorac",
+    "starter": false,
+    "player_id": "1627825",
+    "team_name": "grizzlies",
+    "team_image": "MEM.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "40",
+    "player_name": "Cody Zeller",
+    "starter": false,
+    "player_id": "203469",
+    "team_name": "hornets",
+    "team_image": "CHA.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "",
+    "player_name": "Qi Zhou",
+    "starter": false,
+    "player_id": "1627753",
+    "team_name": "rockets",
+    "team_image": "HOU.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "16",
+    "player_name": "Paul Zipser",
+    "starter": true,
+    "player_id": "1627835",
+    "team_name": "bulls",
+    "team_image": "CHI.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "41",
+    "player_name": "Ante Zizic",
+    "starter": false,
+    "player_id": "1627790",
+    "team_name": "celtics",
+    "team_image": "BOS.svg",
+    "rookie": false,
+    "allstar": false
+  },
+  {
+    "player_number": "40",
+    "player_name": "Ivica Zubac",
+    "starter": false,
+    "player_id": "1627826",
+    "team_name": "lakers",
+    "team_image": "LAL.svg",
+    "rookie": false,
+    "allstar": false
+  }
+]
